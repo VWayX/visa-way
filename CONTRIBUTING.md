@@ -4,7 +4,7 @@ Thanks for helping! Good first contributions:
 
 - **Fix wrong information**: open an issue with the passport, the destination, what the page shows, and an official source (embassy or government link).
 - **Add or improve a translation**: strings live in the `L` and `M` objects at the top of `js/app.js`.
-- **Add official links** for a country: official visa links live in `js/links.js` (object `OF`); study and work links are in the `LK` object in `js/app.js`.
+- **Add official links** for a country: see the `LK` object in `js/app.js`.
 - **Update the data**: see "Update the visa data" in the README.
 
 ## Workflow
